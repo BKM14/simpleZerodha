@@ -1,4 +1,6 @@
 # simpleZerodha
+**Site live [here](https://bkm14.github.io/simpleZerodha/)**
+
 A very basic clone of the Zerodha landing page
 
 Final output:
